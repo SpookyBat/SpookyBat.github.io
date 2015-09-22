@@ -1,12 +1,28 @@
-h1 {
+h1,
+p,
+div {
+	text-align: center;
     color: #ff0000;
+    font-family: "Courier"
+	
+}
+h4 {
+	text-align: center;
+    color: #7f0000;
+    font-family: "Courier"
+}
+ul {
+	text-align: left;
+    color: #ff0000;
+    font-family: "Courier"
+
+}
+body {
+    background-color: #000000;
+    font-family: "Sans-Serif";
+}
+.pages {
+    float: center;
+	text-align: center;
 }
 
-body{
-	background-color: #000000;
-	font-family: "Sans-Serif";
-}
-
-h1,li { 
-	text-align: center 
-}
