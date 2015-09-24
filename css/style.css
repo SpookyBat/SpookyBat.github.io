@@ -1,21 +1,26 @@
 h1,
+h2,
+h4,
 p,
 div {
-	text-align: center;
-    color: #ff0000;
+    text-align: center;
     font-family: "Courier"
-	
+}
+h1,
+p,
+div {
+    color: #ff0000;
+}
+h2 {
+    color: #660000;
 }
 h4 {
-	text-align: center;
     color: #7f0000;
-    font-family: "Courier"
 }
 ul {
-	text-align: left;
+    text-align: left;
     color: #ff0000;
     font-family: "Courier"
-
 }
 body {
     background-color: #000000;
@@ -23,6 +28,5 @@ body {
 }
 .pages {
     float: center;
-	text-align: center;
+    text-align: center;
 }
-
